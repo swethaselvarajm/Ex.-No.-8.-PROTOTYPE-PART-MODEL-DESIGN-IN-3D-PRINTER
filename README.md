@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![ex8](https://github.com/swethaselvarajm/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119525603/653778e9-2cdc-41d9-a319-6564e766e884)
+![Screenshot (71)](https://github.com/swethaselvarajm/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119525603/1d5ae707-7860-48f7-8b5d-d24133a7164b)
+
 
 ### Name: SWETHA.S
 ### Register Number: 212222230155
